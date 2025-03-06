@@ -1,9 +1,5 @@
 ### Hi there 👋
-I’m chris-nourish, incase you haven't guessed I am called Chris and am currently working at [Nourish Care](https://nourishcare.com/) on the Nourish Application for the Team Green!
-
-Not everyone can work in team green, only the best of the best!
-
-![image of kermit the frog who is green and miss piggy his girlfriend](images/kermit-piggy-your-just-jealous.gif)
+I am Chris from [insert team name here]. Unfortunately I am leaving Nourish but here is my page ready to be resurrected if I every return.
 
 🔧 Technology and Tools
 
@@ -24,15 +20,3 @@ Not everyone can work in team green, only the best of the best!
 🖥️ Most Frequently Used Languages Here
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-nourish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
